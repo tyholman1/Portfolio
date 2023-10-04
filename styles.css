@@ -1,0 +1,95 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.logo{
+    height: 100px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0 auto;
+    width: 725px;
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+}
+
+nav{
+
+        display: flex;
+        justify-content: space-around;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 25px;  
+        text-decoration: none;
+}
+
+.name{
+    
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.titles{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-larger;
+}
+
+p{
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+}
+
+
+.projects{
+    position: relative;
+}
+
+
+.game{
+    height:150px;
+    width: 150px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.disney{
+    height:150px;
+    width: 150px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;}
+
+.job{
+    height:150px;
+    width: 150px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.github{
+    width: 40px;
+}
+
+.linkedin{
+    width:45px;
+}
